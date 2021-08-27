@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/neog-ecommerce/static/css/main.20471f98.chunk.css",
+    "main.js": "/neog-ecommerce/static/js/main.58b604b2.chunk.js",
+    "main.js.map": "/neog-ecommerce/static/js/main.58b604b2.chunk.js.map",
+    "runtime-main.js": "/neog-ecommerce/static/js/runtime-main.aae1b79c.js",
+    "runtime-main.js.map": "/neog-ecommerce/static/js/runtime-main.aae1b79c.js.map",
+    "static/js/2.962c5ee6.chunk.js": "/neog-ecommerce/static/js/2.962c5ee6.chunk.js",
+    "static/js/2.962c5ee6.chunk.js.map": "/neog-ecommerce/static/js/2.962c5ee6.chunk.js.map",
+    "static/js/3.29d0a3ac.chunk.js": "/neog-ecommerce/static/js/3.29d0a3ac.chunk.js",
+    "static/js/3.29d0a3ac.chunk.js.map": "/neog-ecommerce/static/js/3.29d0a3ac.chunk.js.map",
+    "index.html": "/neog-ecommerce/index.html",
+    "static/css/main.20471f98.chunk.css.map": "/neog-ecommerce/static/css/main.20471f98.chunk.css.map",
+    "static/js/2.962c5ee6.chunk.js.LICENSE.txt": "/neog-ecommerce/static/js/2.962c5ee6.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/neog-ecommerce/static/media/home-image.1850659e.jpg",
+    "static/media/logo.6ce24c58.svg": "/neog-ecommerce/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae1b79c.js",
+    "static/js/2.962c5ee6.chunk.js",
+    "static/css/main.20471f98.chunk.css",
+    "static/js/main.58b604b2.chunk.js"
+  ]
+}
