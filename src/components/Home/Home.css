@@ -1,0 +1,41 @@
+.home-app {
+    background-image: linear-gradient(to right top, #237147, #1a8046, #118f43, #0c9e3e, #11ad35, #32b933, #4ac431, #5fd02d, #7edb38, #99e645, #b3f051, #ccfb5f);
+    
+
+    background-image: url(home-image.jpg);
+    background-repeat: no-repeat;
+    
+    
+    background-size: cover;
+    height: 100vh;
+}
+
+.btn-primary{
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
+    transition: 1s;
+}
+
+.btn-lg{
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: hidden;
+}
+
+.btn-home{
+    display: flex;
+    
+    justify-content: center;
+    position: fixed;
+    top: 50%;
+    left: 42%;
+    
+    
+}
+
+.btn-primary:hover{
+    color: white;
+    background-color: green;
+   
+}

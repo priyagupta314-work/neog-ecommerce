@@ -1,0 +1,27 @@
+.cart-item{
+    display: flex;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 0.3rem;
+    max-width: 80%;
+    margin-bottom: 1rem;
+}
+
+.cart-item-image{
+    height: 100px;
+    width: auto;
+}
+
+.cart-item-details{
+    display: flex;
+    flex-direction: column;
+}
+
+.quantity-setter{
+    padding: 1rem;
+}
+
+.quantity-setter-button{
+    border-radius: 0.3rem;
+}
